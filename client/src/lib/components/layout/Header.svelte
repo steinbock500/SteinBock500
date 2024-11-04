@@ -4,10 +4,10 @@
 	import { page } from '$app/stores';
 	const linksLeft = [
 		['/freedomWallets', 'Wallets'],
-		['/freedomTreasuries', 'Schätze']
+		['/logBook', 'Log Buch'],
 	];
 	const linksRight = [
-		['/logBook', 'Log Buch'],
+		['/freedomTreasuries', 'Schätze'],
 		['/philosophy', 'Philosophie']
 	];
 </script>
